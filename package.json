@@ -1,0 +1,15 @@
+{
+	"name": "xhtml",
+	"version": "1.0.0",
+	"description": "hoster",
+	"main": "index.js",
+	"scripts": {
+		"test": "test",
+		"start": "node index.js"
+	},
+	"author": "sentares",
+	"license": "ISC",
+	"dependencies": {
+		"node": "^18.20.2"
+	}
+}
