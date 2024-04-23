@@ -4,7 +4,7 @@
 	"display": "standalone",
 	"icons": [
 		{
-			"src": "assets/images/app-logo/cropped-1.jpeg",
+			"src": "assets/images/app-logo/pwa150x150.png",
 			"sizes": "150x150",
 			"type": "image/png"
 		}
